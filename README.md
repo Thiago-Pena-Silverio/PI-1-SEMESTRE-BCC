@@ -1,4 +1,4 @@
-# PI-1-SEMESTER-BCC
+# PI-1-SEMESTER-BCS
 Integrating project for the 1st semester of the Bachelor's Degree in Computer Science
 
 Name of the game: A university student's choice
