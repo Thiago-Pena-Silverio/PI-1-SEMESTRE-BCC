@@ -26,7 +26,7 @@ At the end of each semester, the player will receive a summary of their performa
 Graphics and audio:
 Using the 8-bit style found in classic video games, with a minimalist look, but still beautiful and understandable. Both the graphics and visuals as well as the sound will draw on the simplicity and nostalgia of old video games.
 
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————
 
 # PI-1-SEMESTRE-BCC
 Projeto integrador do 1º semestre de bacharelado em Ciência da Computação
