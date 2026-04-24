@@ -26,7 +26,6 @@ At the end of each semester, the player will receive a summary of their performa
 Graphics and audio:
 Using the 8-bit style found in classic video games, with a minimalist look, but still beautiful and understandable. Both the graphics and visuals as well as the sound will draw on the simplicity and nostalgia of old video games.
 
-
 ————————————————————————————————————————————
 
 # PI-1-SEMESTRE-BCC
@@ -55,7 +54,3 @@ Ao fim de cada semestre, o jogador receberá um resumo de seu desempenho.
 
 Gráficos e áudio:
 Usando o estilo 8 bits, presentes em videogames clássicos, com um visual minimalista, mas ainda assim bonito e compreensível. Tanto a parte gráfica e visual quanto a parte sonora puxarão para a simplicidade e nostalgia dos videogames antigos.
-
-
-
-
